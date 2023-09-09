@@ -30,7 +30,7 @@ int main()
         cout<<num<<" is the perfect number ."<<endl;
     }
     else{
-          cout<<num<<" is not a  perfect number ."<<endl;
+          cout<<num<<" is not a perfect number ."<<endl;
     }
     return 0;
 }
