@@ -1,4 +1,4 @@
-// leetcode problem number 191. Number of 1 Bits
+//                                Find out the  Number of 1 Bits of the entered number 
 #include<iostream>
 using namespace std;
 int hammingWeight(uint32_t n){
