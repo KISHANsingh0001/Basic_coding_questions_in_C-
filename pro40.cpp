@@ -4,7 +4,7 @@
 
 // Given an integer n, return true if n is a perfect number, otherwise return false.
 #include<iostream>
-#include<math.h>
+#include<math.h> 
 using namespace std;
 int isPerfectNumber(int n){
     long long sum = 1;
@@ -14,8 +14,12 @@ int isPerfectNumber(int n){
             sum+=n/i;
         }
     }
-    if(sum == n)return true;
-    else return false;
+    if(sum == n){
+        return true;
+    }
+    else{ 
+    return false;
+    }
 }
 
 int main()
@@ -27,7 +31,7 @@ int main()
         cout<<"Your number is perfect number.";
     }
     else{
-        cout<<"Your number is not a perfect number.";
+        cout<<"Your Entered number is not a perfect number.";
     }
     return 0;
 }
