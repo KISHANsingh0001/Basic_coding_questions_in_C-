@@ -10,7 +10,7 @@ int main()
     int arr[] = {1,1,2};
     n = sizeof(arr) / sizeof(int);
     // cout<<"size of the array is: "<<n;
-    
+
 
     for (int i = 0; i < n; i++)
     {
@@ -18,7 +18,6 @@ int main()
     }
 
     v.erase(unique(v.begin(), v.end()), v.end());
-    cout<<"size of the vector is: "<<v.size()<<endl;
 
     for (int i : v)
     {
