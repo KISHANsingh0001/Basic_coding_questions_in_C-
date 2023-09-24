@@ -1,4 +1,4 @@
-// Binary search in nearly sorted array 
+// Binary_search_in_nearly_sorted_array 
 #include<iostream>
 using namespace std;
 int searchNearlySorted(int arr[] , int n , int target){

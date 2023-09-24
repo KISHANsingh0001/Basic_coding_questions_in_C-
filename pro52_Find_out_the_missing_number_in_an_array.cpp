@@ -1,4 +1,4 @@
-// Find out the missing number in an array 
+// Find_out_the_missing_number_in_an_array 
 #include<iostream>
 #include<vector>
 using namespace std;
