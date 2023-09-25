@@ -1,4 +1,4 @@
-// Wave print of the matrix
+// Wave_print_of_the_matrix
 #include <iostream>
 #include <vector>
 using namespace std;
