@@ -1,4 +1,4 @@
-// Missing Elements from an array with Duplicates where n = size of array 
+// Missing_Elements_from_an_array_with_Duplicates where n = size of array 
 // 1 based indexing will be taken ..              input - [1,3,5,3,4]
 //                                               output - 2(missing number)
 #include<iostream>

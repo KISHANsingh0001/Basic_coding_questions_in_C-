@@ -1,4 +1,4 @@
-// find the missing element in sorted array 
+// find_the_missing_element_in_sorted_array_using_binary_search
 #include<iostream>
 using namespace std;
 int findMissingElement(int arr[] , int n){
