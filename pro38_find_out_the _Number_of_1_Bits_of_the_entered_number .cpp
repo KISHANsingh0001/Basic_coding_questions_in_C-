@@ -1,4 +1,4 @@
-//                                Find out the  Number of 1 Bits of the entered number 
+//                                find_out_the _Number_of_1_Bits_of_the_entered_number 
 #include<iostream>
 using namespace std;
 int hammingWeight(uint32_t n){
