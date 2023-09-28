@@ -1,4 +1,4 @@
-//                                          leet code question number 507. Perfect Number
+//                                          leet code question number (LC)_507_Perfect_Number
 // A perfect number is a positive integer that is equal to the sum of its positive divisors, excluding the number itself.
 //  A divisor of an integer x is an integer that can divide x evenly.
 
