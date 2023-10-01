@@ -1,4 +1,4 @@
-//                                     Leetcode problem number 796. Rotate String
+//                                     Leetcode problem number _796_Rotate_String
 #include<iostream>
 #include<string>
 using namespace std;

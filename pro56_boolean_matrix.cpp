@@ -4,8 +4,8 @@
 //                                                                 Input: R = 2, C = 2
 //                                                                        matrix[][] = {{1, 0},
 //                                                                                      {0, 0}}
-//                                                                     Output: 1 1
-//                                                                             1 0
+//                                                                         Output: 1 1
+//                                                                                 1 0
 //                                                                          
 #include<iostream>
 #include<vector>
