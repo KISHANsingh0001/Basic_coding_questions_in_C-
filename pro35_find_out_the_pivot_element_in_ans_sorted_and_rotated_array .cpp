@@ -1,4 +1,4 @@
-// find out the pivot element in ans sorted and rotated array 
+// _find_out_the_pivot_element_in_ans_sorted_and_rotated_array 
 #include<iostream>
 using namespace std;
 int pivot(int arr[] , int n){
