@@ -1,4 +1,4 @@
-//          Rotate the array with kth position 
+//          _rotate_the_array_with_kth_position 
 #include<iostream>
 #include<vector>
 using namespace std;
