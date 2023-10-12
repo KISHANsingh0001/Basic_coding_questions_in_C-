@@ -1,4 +1,4 @@
-//                        Binary search 
+//                        _Binary_search 
 #include<iostream>
 #include<vector>
 using namespace std;
