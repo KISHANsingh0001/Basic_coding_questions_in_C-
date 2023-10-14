@@ -1,4 +1,4 @@
-//    find the duplicate number in an array leetcode number 287
+//   _find_the_duplicate_number_in_an_array_leetcode number 287
 #include<iostream>
 #include<vector>
 using namespace std;
