@@ -1,4 +1,4 @@
-//                 leet code question number 75. Sort Colors 
+//                 leet code question number _lc_75_Sort_Colors 
 #include<iostream>
 #include<algorithm>
 using namespace std;

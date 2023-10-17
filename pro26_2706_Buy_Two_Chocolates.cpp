@@ -1,4 +1,4 @@
-//                        Leetcode question number--> 2706. Buy Two Chocolates
+//                        Leetcode question number--> _2706_Buy_Two_Chocolates
 #include<iostream>
 #include<algorithm>
 #include<vector>
