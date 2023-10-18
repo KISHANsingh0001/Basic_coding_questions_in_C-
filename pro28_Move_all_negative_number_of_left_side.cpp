@@ -1,4 +1,4 @@
-//                                                  Move all negative number of left side in an array 
+//                           _Move_all_negative_number_of_left_side in an array 
 #include <iostream>
 #include <algorithm>
 using namespace std;
