@@ -1,4 +1,4 @@
-//       Leetcode problem number - 268. Missing Number
+//       Leetcode problem number - _lc_268_Missing_Number
 #include<iostream>
 #include<algorithm>
 using namespace std;
