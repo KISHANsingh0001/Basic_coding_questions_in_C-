@@ -1,4 +1,4 @@
-//                          Reverse only volvas  of the string 
+//                         _Reverse_only_volvas_of_the_string 
 #include<iostream>
 #include<string>
 using namespace std;
