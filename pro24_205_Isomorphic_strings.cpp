@@ -1,4 +1,4 @@
-//                      Isomorphic strings     Leetcode question number 205
+//                    _205_Isomorphic_strings     Leetcode question number 205
 #include<iostream>
 #include<string>
 using namespace std;
