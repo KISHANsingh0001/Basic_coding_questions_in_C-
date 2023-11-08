@@ -1,4 +1,4 @@
-//       Best time to buy ans sell stocks problem  [Leetcode problem number 121] by recursion and iteratively both
+//      _Best_time_to_buy_and_sell_stocks_problem  [Leetcode problem number 121] by recursion and iteratively both
 #include <iostream>
 #include <vector>
 #include <limits.h>
