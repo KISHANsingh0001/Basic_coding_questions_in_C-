@@ -1,4 +1,4 @@
-//                             remove duplicate charactors in the string 
+//                            _remove_duplicate_charactors_in_the_string 
 #include <bits/stdc++.h>
 using namespace std;
 
