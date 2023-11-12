@@ -1,4 +1,4 @@
-        // check palindrome using recursion 
+        // _check_palindrome_using recursion 
 #include<iostream>
 #include<string>
 using namespace std;
