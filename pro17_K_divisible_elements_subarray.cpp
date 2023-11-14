@@ -1,4 +1,4 @@
-//          [medium]      K divisible elements subarray (Leetcode problem number . 2261)
+//          [medium]     _K_divisible_elements_subarray (Leetcode problem number . 2261)
 #include<iostream>
 #include<vector>
 #include<set>
