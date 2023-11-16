@@ -1,4 +1,4 @@
-//         Print all subarray using recursion 
+//        _Print_all_subarray_using_recursion 
 #include<iostream>
 #include<vector>
 using namespace std;
