@@ -1,4 +1,4 @@
-//                               Cut into segments  code using recursion
+//                              _Cut_into_segments  code using recursion
 #include <iostream>
 #include <vector>
 #include <limits.h>

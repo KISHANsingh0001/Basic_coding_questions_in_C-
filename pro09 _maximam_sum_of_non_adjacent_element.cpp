@@ -1,4 +1,4 @@
-//                                  maximam sum of non adjacent element
+//                                 _maximam_sum_of_non_adjacent_element
 #include<iostream>
 #include<vector>
 #include<limits>
