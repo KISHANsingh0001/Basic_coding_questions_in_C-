@@ -1,4 +1,4 @@
-//                              Intersection of Two Arrays
+//                             _Intersection_of_Two_Arrays
 #include <iostream>
 #include <vector>
 #include<algorithm>
