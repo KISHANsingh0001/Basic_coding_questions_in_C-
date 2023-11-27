@@ -1,4 +1,4 @@
-//                               coin change problem  code using recursion
+//                              _coin_change_problem  code using recursion
 #include <iostream>
 #include <vector>
 #include <limits.h>
