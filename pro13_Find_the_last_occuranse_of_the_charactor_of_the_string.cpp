@@ -1,4 +1,4 @@
-//               Find the last occuranse of the charactor of the string  using recursion 
+//              _Find_the_last_occuranse_of_the_charactor_of_the_string  using recursion 
 #include<iostream>
 #include<string>
 using namespace std;
