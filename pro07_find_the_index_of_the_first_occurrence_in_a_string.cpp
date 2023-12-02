@@ -1,4 +1,4 @@
-//                       find the index of the first occurrence in a string
+//                      _find_the_index_of_the_first_occurrence_in_a_string
 #include <iostream>
 #include <string>
 using namespace std;
