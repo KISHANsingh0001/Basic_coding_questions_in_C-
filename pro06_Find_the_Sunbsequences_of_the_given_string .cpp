@@ -1,4 +1,4 @@
-//                    Find the Sunbsequences of the given string 
+//                   _Find_the_Sunbsequences_of_the_given_string 
 #include<iostream>
 #include<string>
 using namespace std;
