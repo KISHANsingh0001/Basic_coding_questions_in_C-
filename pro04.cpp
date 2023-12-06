@@ -1,4 +1,4 @@
-//               Revers Ulternativly The array    input = {1,2,3,4,5,6 }
+//               _Revers_Ulternativly_The_array    input = {1,2,3,4,5,6 }
 //                                                output = {2, 1, 4, 3, 6, 5 }
 #include <iostream>
 #include <algorithm>
