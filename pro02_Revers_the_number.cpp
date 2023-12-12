@@ -1,4 +1,4 @@
-//                                          Revers the number (Integer)
+//                                          Revers_the_number (Integer)
 #include<iostream>
 using namespace std;
 
