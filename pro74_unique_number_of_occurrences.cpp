@@ -1,4 +1,4 @@
-//                          LeetCode-1207. Unique Number of Occurrences
+//                          LeetCode-1207. unique_Number_of_Occurrences
 //Given an array of integers arr, return true if the number of occurrences of each value in the array is unique or false otherwise.
 // Input: arr = [1,2,2,1,1,3]
 // Output: true
